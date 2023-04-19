@@ -1,0 +1,30 @@
+{"blogs":[{
+    "title": "Over My Dead Body",
+    "body": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
+    "author": "Reinaldos Quennell",
+    "id": 1,
+    "gender": "Male",
+    "ip_address": "201.149.109.172"
+  }, {
+    "title": "Rushmore",
+    "body": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
+    "author": "Beatrice Jost",
+    "id": 2,
+    "gender": "Female",
+    "ip_address": "159.63.186.44"
+  }, {
+    "title": "6 Souls (Shelter)",
+    "body": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
+    "author": "Madlin De Andreis",
+    "id": 3,
+    "gender": "Female",
+    "ip_address": "167.2.180.250"
+  }, {
+    "title": "Robot Carnival (Roboto kânibauru)",
+    "body": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.",
+    "author": "Kelsy Francomb",
+    "id": 4,
+    "gender": "Genderfluid",
+    "ip_address": "89.34.45.178"
+  }]
+}
